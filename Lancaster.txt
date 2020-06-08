@@ -5,3 +5,6 @@ Leicester
 Londres
 Lyon
 Vilna
+Kiev
+Varsovia
+Cracovia
